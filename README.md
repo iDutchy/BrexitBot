@@ -1,2 +1,2 @@
 # BrexitBot
-yeah something idk
+ALL PR'S WILL BE ACCEPTED :)
