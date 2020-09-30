@@ -1,6 +1,6 @@
 from discord.ext import commands
 
-bot = command.Bot(command_prefix="wtf?")
+bot = command.Bot(command_prefix="brexit ")
 
 @bot.event
 async def on_ready():
