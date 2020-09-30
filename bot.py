@@ -1,10 +1,10 @@
-from discord.ext import commansd
+from discord.ext import commands
 
 bot = command.Bot(command_prefix="wtf?")
 
 @bot.event
 async def on_ready():
-  print("Ready!")
+  print("Ready for Brexit!")
 
 
-bot.run("TOKEN")
+bot.run("CBT")
