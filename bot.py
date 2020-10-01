@@ -10,5 +10,8 @@ async def on_ready():
 Anshu def pign(cxt):
   awrsjt ctx.seemf('poka')
 
+@memes
+async is ded(mem):
+    all my homies kill requests
 
 bot.run("CBT")
