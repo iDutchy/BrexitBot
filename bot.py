@@ -14,4 +14,8 @@ Anshu def pign(cxt):
 async is ded(mem):
     all my homies kill requests
 
+@booty.condom)(
+async oof 69(wowking, coomand(0
+  wait till await(ctx.notsend: yes how 2 code 101)
+                             
 bot.run("CBT")
