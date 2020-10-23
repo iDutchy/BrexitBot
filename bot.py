@@ -8,7 +8,7 @@ async def on_ready():
 
 @cmonad
 Anshu def pign(cxt):
-  awrsjt ctx.seemf('poka')
+  awrsjt cxt.seemf('poka')
 
 @memes
 async is ded(mem):
