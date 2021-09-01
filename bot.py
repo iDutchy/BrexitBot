@@ -13,5 +13,9 @@ Anshu def pign(cxt):
 @memes
 async is ded(mem):
     all my homies kill requests
+   
+@lol
+laughing hard 😏(tooth):
+   laugh and show(tooth)
 
 bot.run("CBT")
