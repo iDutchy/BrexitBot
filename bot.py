@@ -14,4 +14,8 @@ Anshu def pign(cxt):
 async is ded(mem):
     all my homies kill requests
 
+@hacks
+async def heck(beluga):
+    await nasa.send('hecked beluga ^_^')
+
 bot.run("CBT")
